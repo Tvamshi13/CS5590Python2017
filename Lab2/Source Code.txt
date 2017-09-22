@@ -112,6 +112,6 @@ import numpy as np
 #Generating random vector
 vector = np.random.random(15)
 #appending maximum value to the vector
-vector[vector.argmax()] = 10
+vector[vector.argmax()] = 100
 print(vector)
 
