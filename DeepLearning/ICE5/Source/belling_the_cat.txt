@@ -1,0 +1,1 @@
+Google hopes to create another Android; that is, an open-source project that dominates a sector. Android is the mostly widely deployed mobile OS, and Google hopes Tensorflow will be the most widely deployed machine-learning framework.
